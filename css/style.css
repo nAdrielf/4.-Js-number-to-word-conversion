@@ -1,0 +1,36 @@
+* {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: navy;
+}
+.container {
+  background-color: #eee;
+  height: 18 0px;
+  width: 250px;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.main {
+  text-align: center;
+  padding: 10px;
+}
+header {
+  background-color: navy;
+  border: red solid 1px;
+  color: burlywood;
+  font-size: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+footer {
+  background-color: #ff000f;
+}
+.btn-conv {
+  padding-top: 3px;
+  border-radius: 100%;
+}
+input {
+  text-align: center;
+}
